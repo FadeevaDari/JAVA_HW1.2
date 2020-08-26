@@ -49,7 +49,8 @@ public class Main {
   }
   ```
 #### В качестве тестовых данных использовались данные сервиса, который генерирует валидные намера карт [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
-![Image](https://monosnap.com/file/JrWV1nzbGpNtcYg5lBQHxwyyJeSTrF)
+
+![image](https://user-images.githubusercontent.com/67522974/91319185-c1d83600-e7c4-11ea-910f-5f5ed0bfdb01.png)
 
 ### Тестирование производилось в следующем окружении:
 * Windows 10 Professional 64х
